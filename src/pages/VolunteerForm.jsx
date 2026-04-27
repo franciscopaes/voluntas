@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assests/logo.png";
+import Logo from "../assests/Logo.png";
 
 
 const SKILLS = [
