@@ -28,7 +28,7 @@ Além disso, o sistema conta com integração com um agente de IA da IBM, permit
 <img width="960" height="504" alt="IA" src="https://github.com/user-attachments/assets/4ae5523a-211d-46d7-b22c-9fc19e4c259f" />  
 <img width="960" height="504" alt="IA1" src="https://github.com/user-attachments/assets/d22c6a17-303d-4007-a3c1-344776eba21f" />
 <img width="960" height="504" alt="IA3" src="https://github.com/user-attachments/assets/d8c0f3c7-a999-467e-856b-e12760f4c40e" />
-
+<img width="960" height="504" alt="Agent" src="https://github.com/user-attachments/assets/16305b9c-2cc9-4340-b929-c473db1607c9" />
 
 ## 🖥️ Tecnologias utilizadas
 
