@@ -1,16 +1,51 @@
-# React + Vite
+# Voluntas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Plataforma inteligente que conecta voluntários a ONGs com base em perfil, habilidades e interesses.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Sobre o projeto
 
-## React Compiler
+O **Voluntas** é uma aplicação web que tem como objetivo facilitar o acesso ao voluntariado, conectando pessoas a causas sociais de forma personalizada.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A plataforma coleta informações do usuário (como habilidades, disponibilidade e interesses) e recomenda oportunidades de voluntariado alinhadas ao seu perfil.
 
-## Expanding the ESLint configuration
+Além disso, o sistema conta com integração com um agente de IA da IBM, permitindo que o usuário converse e descubra ONGs de forma interativa.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖥️ Tecnologias utilizadas
+
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- IBM Watsonx Orchestrate (IA)
+- Vercel (deploy)
+- Excel (base de dados das ONGs)
+
+---
+
+## 📦 Como rodar o projeto
+
+### 🔧 Pré-requisitos
+
+- Node.js instalado
+- npm ou yarn
+
+---
+
+### ▶️ Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/voluntas.git
+
+# Acesse a pasta
+cd voluntas
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+```
