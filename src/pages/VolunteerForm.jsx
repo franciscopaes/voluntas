@@ -108,8 +108,7 @@ export default function VolunteerForm({ navigate }) {
               <p className="form-eyebrow">Para Voluntários</p>
               <h1 className="form-title">Encontre sua causa</h1>
               <p className="form-subtitle">
-                Compartilhe suas habilidades e disponibilidade. Nossa IA encontrará
-                as oportunidades de maior impacto para o seu perfil.
+                Compartilhe suas habilidades e disponibilidade.
               </p>
             </div>
 
